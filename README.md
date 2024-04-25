@@ -1,4 +1,4 @@
-# Portafolio :tw-1f4f6:
+# Portafolio :cloud:
 Creacion de mi portafolio.
 
 > Un portafolio donde encontraras mis habilidades en SQL, Python, Power BI, Tableau, Excel y todo lo que se me ocurra aprender.
